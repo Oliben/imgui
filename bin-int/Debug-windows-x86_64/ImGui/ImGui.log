@@ -1,0 +1,36 @@
+﻿  imgui.cpp
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(10898): error C2059: syntax error: '<<'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(10906): error C2059: syntax error: '=='
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(10908): error C2143: syntax error: missing ';' before '{'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(10922): error C2059: syntax error: '>>'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13324): error C2059: syntax error: '<<'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13329): error C2062: type 'void' unexpected
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13330): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13330): error C3484: syntax error: expected '->' before the return type
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13330): error C3613: missing return type after '->' ('int' assumed)
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13330): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13330): error C2146: syntax error: missing ';' before identifier 'LogFile'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13331): error C2059: syntax error: 'if'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13335): error C2065: 'filename': undeclared identifier
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13336): error C2059: syntax error: 'if'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13338): error C2143: syntax error: missing ';' before '{'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13338): error C2447: '{': missing function header (old-style formal list?)
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13343): error C2065: 'auto_open_depth': undeclared identifier
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13343): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13343): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13343): note: The initializer contains too many elements
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13344): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13344): error C3484: syntax error: expected '->' before the return type
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13344): error C3613: missing return type after '->' ('int' assumed)
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13344): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13344): error C2086: 'int g': redefinition
+  c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13330): note: see declaration of 'g'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13344): error C2146: syntax error: missing ';' before identifier 'LogFile'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13345): error C2059: syntax error: '}'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13345): error C2143: syntax error: missing ';' before '}'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13349): error C2143: syntax error: missing ';' before '{'
+c:\dev\hazel\hazel\vendor\imgui\imgui.cpp(13349): error C2447: '{': missing function header (old-style formal list?)
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+  Generating Code...
